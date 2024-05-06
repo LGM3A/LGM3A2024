@@ -1,4 +1,4 @@
-### The homepage of the 1st Workshop on Large Generative Models Meet Multimodal Applications (LGM3A)
+### The homepage of the 2st Workshop on Large Generative Models Meet Multimodal Applications (LGM3A)
 
 <!--
 **LGM3A2023/LGM3A2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
